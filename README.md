@@ -1,6 +1,6 @@
 # WalmartTest
 
-Test Walmart
+Test Walmart.
 
 # Almacenamiento
 
